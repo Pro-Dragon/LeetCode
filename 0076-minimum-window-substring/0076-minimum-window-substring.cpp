@@ -1,7 +1,7 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        vector<int> freq(60, 0);
+        vector<int> freq(58, 0);
         queue<int> qu;
         int n = s.size(), m = t.size(), cur = 0, l = 0, h = n;
         for(int i = 0; i < m; i++) freq[t[i] - 'A']++;
