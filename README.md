@@ -54,9 +54,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/0216-combination-sum-iii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Pro-Dragon/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Pro-Dragon/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Pro-Dragon/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Two Pointers
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2487-optimal-partition-of-string](https://github.com/Pro-Dragon/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pro-Dragon/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Pro-Dragon/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Pro-Dragon/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/Pro-Dragon/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
