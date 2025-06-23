@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Pro-Dragon/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0907-koko-eating-bananas](https://github.com/Pro-Dragon/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Pro-Dragon/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1022-unique-paths-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1293-three-consecutive-odds](https://github.com/Pro-Dragon/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1972-rotating-the-box](https://github.com/Pro-Dragon/LeetCode/tree/master/1972-rotating-the-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pro-Dragon/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -55,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/0216-combination-sum-iii) |
+| [1022-unique-paths-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1022-unique-paths-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Pro-Dragon/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [1022-unique-paths-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1022-unique-paths-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Pro-Dragon/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Pro-Dragon/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Two Pointers
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Pro-Dragon/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Pro-Dragon/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1022-unique-paths-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1972-rotating-the-box](https://github.com/Pro-Dragon/LeetCode/tree/master/1972-rotating-the-box) |
 ## Prefix Sum
 |  |
