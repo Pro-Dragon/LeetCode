@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1293-three-consecutive-odds](https://github.com/Pro-Dragon/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Pro-Dragon/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1972-rotating-the-box](https://github.com/Pro-Dragon/LeetCode/tree/master/1972-rotating-the-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pro-Dragon/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0047-permutations-ii) |
 | [0917-boats-to-save-people](https://github.com/Pro-Dragon/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Pro-Dragon/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pro-Dragon/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pro-Dragon/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/Pro-Dragon/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Pro-Dragon/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pro-Dragon/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Matrix
 |  |
