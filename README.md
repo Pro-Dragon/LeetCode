@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Pro-Dragon/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0216-combination-sum-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Pro-Dragon/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Pro-Dragon/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0907-koko-eating-bananas](https://github.com/Pro-Dragon/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/Pro-Dragon/LeetCode/tree/master/0768-partition-labels) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Pro-Dragon/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0917-boats-to-save-people](https://github.com/Pro-Dragon/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Pro-Dragon/LeetCode/tree/master/0413-arithmetic-slices) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/Pro-Dragon/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Pro-Dragon/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pro-Dragon/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Pro-Dragon/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3639-zero-array-transformation-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Tree
