@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Pro-Dragon/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pro-Dragon/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Pro-Dragon/LeetCode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Pro-Dragon/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Pro-Dragon/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pro-Dragon/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0768-partition-labels](https://github.com/Pro-Dragon/LeetCode/tree/master/0768-partition-labels) |
 | [1813-maximum-erasure-value](https://github.com/Pro-Dragon/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
