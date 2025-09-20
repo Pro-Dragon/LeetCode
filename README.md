@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pro-Dragon/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Pro-Dragon/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pro-Dragon/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pro-Dragon/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -320,5 +322,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Pro-Dragon/LeetCode/tree/master/3797-design-spreadsheet) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
