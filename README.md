@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Pro-Dragon/LeetCode/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [1642-water-bottles](https://github.com/Pro-Dragon/LeetCode/tree/master/1642-water-bottles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pro-Dragon/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pro-Dragon/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Pro-Dragon/LeetCode/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Pro-Dragon/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
