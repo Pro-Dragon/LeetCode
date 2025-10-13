@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3797-design-spreadsheet](https://github.com/Pro-Dragon/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Pro-Dragon/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Pro-Dragon/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
