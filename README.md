@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Pro-Dragon/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3797-design-spreadsheet](https://github.com/Pro-Dragon/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Pro-Dragon/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4055-longest-balanced-substring-i](https://github.com/Pro-Dragon/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Sorting
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Pro-Dragon/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pro-Dragon/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Pro-Dragon/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Dynamic Programming
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Pro-Dragon/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Simulation
 |  |
@@ -357,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
