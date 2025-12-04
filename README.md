@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pro-Dragon/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [2211-count-collisions-on-a-road](https://github.com/Pro-Dragon/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pro-Dragon/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pro-Dragon/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [2211-count-collisions-on-a-road](https://github.com/Pro-Dragon/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Pro-Dragon/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Pro-Dragon/LeetCode/tree/master/1642-water-bottles) |
+| [2211-count-collisions-on-a-road](https://github.com/Pro-Dragon/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
