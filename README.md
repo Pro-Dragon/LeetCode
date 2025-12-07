@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pro-Dragon/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Pro-Dragon/LeetCode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Pro-Dragon/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pro-Dragon/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Pro-Dragon/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0940-fruit-into-baskets](https://github.com/Pro-Dragon/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pro-Dragon/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pro-Dragon/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Pro-Dragon/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2625-increment-submatrices-by-one](https://github.com/Pro-Dragon/LeetCode/tree/master/2625-increment-submatrices-by-one) |
