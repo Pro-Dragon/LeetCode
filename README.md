@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Pro-Dragon/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2625-increment-submatrices-by-one](https://github.com/Pro-Dragon/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Pro-Dragon/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Pro-Dragon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pro-Dragon/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2487-optimal-partition-of-string](https://github.com/Pro-Dragon/LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pro-Dragon/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Pro-Dragon/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pro-Dragon/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
