@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Pro-Dragon/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pro-Dragon/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/Pro-Dragon/LeetCode/tree/master/1972-rotating-the-box) |
+| [2054-two-best-non-overlapping-events](https://github.com/Pro-Dragon/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pro-Dragon/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pro-Dragon/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/Pro-Dragon/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pro-Dragon/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Pro-Dragon/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2054-two-best-non-overlapping-events](https://github.com/Pro-Dragon/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pro-Dragon/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Pro-Dragon/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [2054-two-best-non-overlapping-events](https://github.com/Pro-Dragon/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pro-Dragon/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Pro-Dragon/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Pro-Dragon/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Pro-Dragon/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Pro-Dragon/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2054-two-best-non-overlapping-events](https://github.com/Pro-Dragon/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pro-Dragon/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Pro-Dragon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pro-Dragon/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Pro-Dragon/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pro-Dragon/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2054-two-best-non-overlapping-events](https://github.com/Pro-Dragon/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
 ## Binary Indexed Tree
 |  |
