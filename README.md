@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1095-two-city-scheduling](https://github.com/Pro-Dragon/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1293-three-consecutive-odds](https://github.com/Pro-Dragon/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pro-Dragon/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pro-Dragon/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Pro-Dragon/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0047-permutations-ii) |
 | [0917-boats-to-save-people](https://github.com/Pro-Dragon/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1095-two-city-scheduling](https://github.com/Pro-Dragon/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pro-Dragon/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pro-Dragon/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Pro-Dragon/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pro-Dragon/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Pro-Dragon/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0917-boats-to-save-people](https://github.com/Pro-Dragon/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1095-two-city-scheduling](https://github.com/Pro-Dragon/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pro-Dragon/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pro-Dragon/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pro-Dragon/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Pro-Dragon/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pro-Dragon/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Pro-Dragon/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pro-Dragon/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
