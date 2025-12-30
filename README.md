@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pro-Dragon/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pro-Dragon/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Pro-Dragon/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Pro-Dragon/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0940-fruit-into-baskets](https://github.com/Pro-Dragon/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Pro-Dragon/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pro-Dragon/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Math
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Pro-Dragon/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pro-Dragon/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Pro-Dragon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Matrix
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Pro-Dragon/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Pro-Dragon/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/Pro-Dragon/LeetCode/tree/master/2625-increment-submatrices-by-one) |
