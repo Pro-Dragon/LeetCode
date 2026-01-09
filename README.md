@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pro-Dragon/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0768-partition-labels](https://github.com/Pro-Dragon/LeetCode/tree/master/0768-partition-labels) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pro-Dragon/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/Pro-Dragon/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pro-Dragon/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pro-Dragon/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0113-path-sum-ii) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pro-Dragon/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Pro-Dragon/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0113-path-sum-ii) |
 | [0386-lexicographical-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pro-Dragon/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pro-Dragon/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0113-path-sum-ii) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pro-Dragon/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Pro-Dragon/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pro-Dragon/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pro-Dragon/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
