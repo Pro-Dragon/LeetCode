@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Pro-Dragon/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Pro-Dragon/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pro-Dragon/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0018-4sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pro-Dragon/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/Pro-Dragon/LeetCode/tree/master/0768-partition-labels) |
