@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pro-Dragon/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Pro-Dragon/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pro-Dragon/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Pro-Dragon/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pro-Dragon/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Pro-Dragon/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Pro-Dragon/LeetCode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Pro-Dragon/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2365-task-scheduler-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/2365-task-scheduler-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Pro-Dragon/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Pro-Dragon/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pro-Dragon/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pro-Dragon/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
 ## Binary Indexed Tree
 |  |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Pro-Dragon/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -487,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Pro-Dragon/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
 ## Monotonic Stack
 |  |
@@ -505,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
