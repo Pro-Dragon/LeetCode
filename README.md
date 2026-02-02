@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Pro-Dragon/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2625-increment-submatrices-by-one](https://github.com/Pro-Dragon/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pro-Dragon/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Pro-Dragon/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-task-scheduler-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/2365-task-scheduler-ii) |
 | [2487-optimal-partition-of-string](https://github.com/Pro-Dragon/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pro-Dragon/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Pro-Dragon/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Pro-Dragon/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pro-Dragon/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Math
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Pro-Dragon/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pro-Dragon/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pro-Dragon/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
 ## Binary Indexed Tree
