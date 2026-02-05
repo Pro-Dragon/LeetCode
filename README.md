@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/Pro-Dragon/LeetCode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pro-Dragon/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2365-task-scheduler-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/2365-task-scheduler-ii) |
+| [3379-transformed-array](https://github.com/Pro-Dragon/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
