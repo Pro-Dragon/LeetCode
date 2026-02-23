@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pro-Dragon/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Pro-Dragon/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pro-Dragon/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1813-maximum-erasure-value](https://github.com/Pro-Dragon/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Pro-Dragon/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Pro-Dragon/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pro-Dragon/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pro-Dragon/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Pro-Dragon/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Pro-Dragon/LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -594,4 +597,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
