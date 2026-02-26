@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Pro-Dragon/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Pro-Dragon/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Pro-Dragon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pro-Dragon/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2487-optimal-partition-of-string](https://github.com/Pro-Dragon/LeetCode/tree/master/2487-optimal-partition-of-string) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Pro-Dragon/LeetCode/tree/master/1390-four-divisors) |
 | [1642-water-bottles](https://github.com/Pro-Dragon/LeetCode/tree/master/1642-water-bottles) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pro-Dragon/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Pro-Dragon/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Pro-Dragon/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Pro-Dragon/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pro-Dragon/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
