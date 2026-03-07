@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pro-Dragon/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pro-Dragon/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pro-Dragon/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Pro-Dragon/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Pro-Dragon/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pro-Dragon/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Pro-Dragon/LeetCode/tree/master/0799-champagne-tower) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pro-Dragon/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pro-Dragon/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pro-Dragon/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pro-Dragon/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Pro-Dragon/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Pro-Dragon/LeetCode/tree/master/0480-sliding-window-median) |
 | [0940-fruit-into-baskets](https://github.com/Pro-Dragon/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Pro-Dragon/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pro-Dragon/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
