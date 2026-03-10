@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pro-Dragon/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/Pro-Dragon/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Pro-Dragon/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pro-Dragon/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Pro-Dragon/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pro-Dragon/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Pro-Dragon/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Pro-Dragon/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/Pro-Dragon/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Pro-Dragon/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Pro-Dragon/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Pro-Dragon/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Brainteaser
 |  |
