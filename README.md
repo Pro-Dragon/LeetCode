@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Pro-Dragon/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/Pro-Dragon/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pro-Dragon/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pro-Dragon/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1022-unique-paths-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1095-two-city-scheduling](https://github.com/Pro-Dragon/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1293-three-consecutive-odds](https://github.com/Pro-Dragon/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Pro-Dragon/LeetCode/tree/master/0231-power-of-two) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pro-Dragon/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1009-complement-of-base-10-integer](https://github.com/Pro-Dragon/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1022-unique-paths-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pro-Dragon/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Pro-Dragon/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0480-sliding-window-median](https://github.com/Pro-Dragon/LeetCode/tree/master/0480-sliding-window-median) |
 | [0940-fruit-into-baskets](https://github.com/Pro-Dragon/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pro-Dragon/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1813-maximum-erasure-value](https://github.com/Pro-Dragon/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pro-Dragon/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pro-Dragon/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Pro-Dragon/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Pro-Dragon/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pro-Dragon/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Doubly-Linked List
 |  |
