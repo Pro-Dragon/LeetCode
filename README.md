@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Pro-Dragon/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Pro-Dragon/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Pro-Dragon/LeetCode/tree/master/0056-merge-intervals) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pro-Dragon/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Pro-Dragon/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Pro-Dragon/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pro-Dragon/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
