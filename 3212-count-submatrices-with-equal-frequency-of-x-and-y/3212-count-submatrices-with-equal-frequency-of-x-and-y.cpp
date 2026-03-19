@@ -2,7 +2,7 @@ class Solution {
 public:
     int numberOfSubmatrices(vector<vector<char>>& grid) {
         int n = grid.size(), m = grid[0].size(), count = 0, col = m, cur;
-        vector<vector<int>> res(n, vector<int> (m, 0));
+        vector<int> res(m, 0);
         for(int i = 0; i < n; i++) {
             cur = 0;
             for(int j = 0; j < m; j++) {
@@ -11,8 +11,8 @@ public:
                     col = min(col, j);
                 }
                 else if(grid[i][j] == 'Y') cur--;
-                res[i][j] += (res[i - (i > 0)][j] + cur);
-                if(!res[i][j] && j >= col) count++;
+                res[j] += cur;
+                if(!res[j] && j >= col) count++;
             }
         }
         return count;
