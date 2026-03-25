@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Pro-Dragon/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pro-Dragon/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Pro-Dragon/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3583-count-special-triplets](https://github.com/Pro-Dragon/LeetCode/tree/master/3583-count-special-triplets) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Pro-Dragon/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [4055-longest-balanced-substring-i](https://github.com/Pro-Dragon/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Backtracking
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/Pro-Dragon/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pro-Dragon/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pro-Dragon/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pro-Dragon/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3797-design-spreadsheet](https://github.com/Pro-Dragon/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pro-Dragon/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pro-Dragon/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pro-Dragon/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
