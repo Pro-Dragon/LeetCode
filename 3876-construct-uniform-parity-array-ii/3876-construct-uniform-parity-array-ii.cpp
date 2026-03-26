@@ -6,6 +6,6 @@ public:
             if(nums1[i] % 2) odd++;
             mini = min(mini, nums1[i]);
         }
-        return (mini % 2 == 0 && odd) ? 0 : 1;
+        return !(mini % 2 == 0 && odd);
     }
 };
