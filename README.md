@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-count-caesar-cipher-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pro-Dragon/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Counting
 |  |
 | ------- |
