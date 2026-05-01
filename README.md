@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Pro-Dragon/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0396-rotate-function](https://github.com/Pro-Dragon/LeetCode/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/Pro-Dragon/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Pro-Dragon/LeetCode/tree/master/0413-arithmetic-slices) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Pro-Dragon/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0396-rotate-function](https://github.com/Pro-Dragon/LeetCode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Pro-Dragon/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pro-Dragon/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Pro-Dragon/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Pro-Dragon/LeetCode/tree/master/0231-power-of-two) |
 | [0390-elimination-game](https://github.com/Pro-Dragon/LeetCode/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/Pro-Dragon/LeetCode/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1390-four-divisors](https://github.com/Pro-Dragon/LeetCode/tree/master/1390-four-divisors) |
 | [1642-water-bottles](https://github.com/Pro-Dragon/LeetCode/tree/master/1642-water-bottles) |
