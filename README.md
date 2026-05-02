@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Pro-Dragon/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Pro-Dragon/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0788-rotated-digits](https://github.com/Pro-Dragon/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Pro-Dragon/LeetCode/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pro-Dragon/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Pro-Dragon/LeetCode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Pro-Dragon/LeetCode/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0788-rotated-digits](https://github.com/Pro-Dragon/LeetCode/tree/master/0788-rotated-digits) |
 | [1390-four-divisors](https://github.com/Pro-Dragon/LeetCode/tree/master/1390-four-divisors) |
 | [1642-water-bottles](https://github.com/Pro-Dragon/LeetCode/tree/master/1642-water-bottles) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
