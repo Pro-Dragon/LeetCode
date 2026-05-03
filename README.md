@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Pro-Dragon/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Pro-Dragon/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Pro-Dragon/LeetCode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/Pro-Dragon/LeetCode/tree/master/0796-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pro-Dragon/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -754,4 +755,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Pro-Dragon/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Pro-Dragon/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
