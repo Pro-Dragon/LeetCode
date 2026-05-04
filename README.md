@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Pro-Dragon/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Pro-Dragon/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Pro-Dragon/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Pro-Dragon/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Pro-Dragon/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Pro-Dragon/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Pro-Dragon/LeetCode/tree/master/0231-power-of-two) |
 | [0390-elimination-game](https://github.com/Pro-Dragon/LeetCode/tree/master/0390-elimination-game) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pro-Dragon/LeetCode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Pro-Dragon/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pro-Dragon/LeetCode/tree/master/0074-search-a-2d-matrix) |
