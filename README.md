@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pro-Dragon/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Pro-Dragon/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pro-Dragon/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Pro-Dragon/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Pro-Dragon/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Pro-Dragon/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Pro-Dragon/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Pro-Dragon/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pro-Dragon/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Pro-Dragon/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Pro-Dragon/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1980-find-unique-binary-string](https://github.com/Pro-Dragon/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pro-Dragon/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pro-Dragon/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1094-car-pooling](https://github.com/Pro-Dragon/LeetCode/tree/master/1094-car-pooling) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Pro-Dragon/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Pro-Dragon/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Pro-Dragon/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
