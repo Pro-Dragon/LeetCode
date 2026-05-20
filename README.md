@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Pro-Dragon/LeetCode/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/Pro-Dragon/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pro-Dragon/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Pro-Dragon/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Pro-Dragon/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pro-Dragon/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Pro-Dragon/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2540-minimum-common-value](https://github.com/Pro-Dragon/LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Pro-Dragon/LeetCode/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pro-Dragon/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2784-check-if-array-is-good](https://github.com/Pro-Dragon/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pro-Dragon/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Pro-Dragon/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pro-Dragon/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Pro-Dragon/LeetCode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Pro-Dragon/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
