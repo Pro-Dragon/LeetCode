@@ -12,8 +12,10 @@ public:
         for (int i = 0; i < arr2.size(); i++) {
             len = log10(arr2[i]) + 1;
             while (arr2[i]) {
-                if (mp[arr2[i]])
+                if (mp[arr2[i]]) {
                     maxi = max(maxi, len);
+                    break;
+                }
                 arr2[i] /= 10;
                 len--;
             }
