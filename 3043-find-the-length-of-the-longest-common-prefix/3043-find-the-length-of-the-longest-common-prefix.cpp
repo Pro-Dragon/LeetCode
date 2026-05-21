@@ -20,6 +20,7 @@ public:
                 len--;
             }
         }
+        mp.clear();
         return maxi;
     }
 };
