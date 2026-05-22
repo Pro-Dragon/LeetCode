@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pro-Dragon/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Pro-Dragon/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pro-Dragon/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Pro-Dragon/LeetCode/tree/master/0046-permutations) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pro-Dragon/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Pro-Dragon/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pro-Dragon/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
