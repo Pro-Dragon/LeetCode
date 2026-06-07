@@ -1,43 +1,83 @@
 class Solution {
 public:
-    pair<long long, long long> helper(int posi, int lastDig, int sndLastDig, int tight, vector<int>&num1Arr, vector<vector<vector<vector<pair<long long,long long>>>>>&digitDP){
-        if(posi==num1Arr.size()) return {0,1};
-        if(digitDP[posi][lastDig+1][sndLastDig+1][tight].second!=-1){
-            return digitDP[posi][lastDig+1][sndLastDig+1][tight];
-        }
-        int limit=(tight==1)?num1Arr[posi]:9;
-        long long grandTotalWaviness=0;
-        long long grandTotalWays=0;
-        for(int i=0;i<=limit;i++){
-            int newTight=(tight==1 and i==num1Arr[posi])?1:0;
-            int curDig=(lastDig==-1 and sndLastDig==-1 and i==0)?-1:i;
-            pair<long long,long long>subVal=helper(posi+1,curDig,lastDig,newTight,num1Arr,digitDP);
-            long long subWaviness=subVal.first;
-            long long subWays=subVal.second;
-            int add=0;
-            if(curDig!=-1 and lastDig!=-1 and sndLastDig!=-1){
-                if( lastDig>max(curDig,sndLastDig) || lastDig<min(curDig,sndLastDig) ) add++;
-            }
-            grandTotalWaviness+=(subWaviness+(add*subWays));
-            grandTotalWays+=subWays;
-        }
-        return digitDP[posi][lastDig+1][sndLastDig+1][tight]={grandTotalWaviness,grandTotalWays};
-    }
     long long totalWaviness(long long num1, long long num2) {
-        num1--;
+        long long final_answer = 0;
+        long long current_start = num1;
 
-        string str1=to_string(num1),str2=to_string(num2);
-        int n1=str1.size(),n2=str2.size();
-        vector<int>num1Arr(n1),num2Arr(n2);
-        for(int i=0;i<n1;i++) num1Arr[i]=(str1[i]-'0');
-        for(int i=0;i<n2;i++) num2Arr[i]=(str2[i]-'0');
-
-        vector<vector<vector<vector<pair<long long,long long>>>>>digitDP(16,vector<vector<vector<pair<long long,long long>>>>(11,vector<vector<pair<long long,long long>>>(11,vector<pair<long long,long long>>(2,{-1,-1}))));
-        long long num1Ans=helper(0,-1,-1,1,num1Arr,digitDP).first;
-
-        digitDP.assign(16,vector<vector<vector<pair<long long,long long>>>>(11,vector<vector<pair<long long,long long>>>(11,vector<pair<long long,long long>>(2,{-1,-1}))));
-        long long num2Ans=helper(0,-1,-1,1,num2Arr,digitDP).first;
-
-        return (num2Ans-num1Ans);
+        vector<long long> pow10_arr(18, 1);
+        for(int i = 1; i < 18; i++) {
+            pow10_arr[i] = pow10_arr[i-1] * 10;
+        }
+        
+        while(current_start <= num2) {
+            long long current_digits = to_string(current_start).length();
+            long long current_end = min(num2, pow10_arr[current_digits] - 1);
+            vector<int> count(1000, 0);
+            long long n1 = log10(current_end) + 1, n2 = log10(current_start) + 1, size = n1, start, end, mid, res = 0, end_window, start_window, init, midmoves, last, left, moves = 0, rightsize, diff, temp, val, flag;
+            
+            if(current_end >= 100) {
+                for(int i = 999; i >= 0; i--) {
+                    if(i < 100 && i >= 10) {
+                        mid = i / 10;
+                        if(mid > i % 10) count[i] = 1;
+                    }
+                    else if(i >= 100) {
+                        mid = (i / 10) % 10;
+                        if(mid > i % 10 && mid > i / 100 || mid < i % 10 && mid < i / 100) count[i] = 1;
+                    }
+                    if(n1 == 3 && i >= current_start && i <= current_end) res += count[i];
+                }
+                
+                if(n1 > 3) {
+                    long long orig = log10(current_end) + 1;
+                    while(n1 >= 3) {
+                        temp = 0;
+                        start = current_start / pow10_arr[n1 - 3], end = current_end / pow10_arr[n1 - 3];
+                        left = ((current_end / pow10_arr[n1]) - (current_start / pow10_arr[n1])) + 1;
+                        rightsize = (pow10_arr[n1 - 3]);
+                        init = current_end % rightsize + 1;
+                        diff = (current_end % rightsize - current_start % rightsize) + 1;
+                        midmoves = (left - 1) * rightsize;
+                        last = rightsize - (current_start % rightsize);
+                        start_window = start % 1000;
+                        end_window = end % 1000;
+                        val = (current_start / pow10_arr[n1]);
+                        
+                        for(int i = 0; i <= 999; i++) {
+                            if (n1 == orig && i < 100) continue;
+                            flag = 0;
+                            if(n1 == 3) {
+                                moves = left;
+                                if(i <= end_window && i < start_window || i >= start_window && i > end_window) moves--;
+                                else if(i < start_window && i > end_window) moves -= 2;
+                            }
+                            else {
+                                moves = midmoves;
+                                if(val == 0 && i < 100) moves--;
+                                if(end_window == start_window && i == end_window) {
+                                    if(start == end) moves += diff;
+                                    else moves += (init + last) - rightsize;
+                                }
+                                else if(i == end_window) {
+                                    moves += init;
+                                    if(i < start_window) moves -= rightsize;
+                                }
+                                else if(i == start_window) {
+                                    moves += last;
+                                    if(i > end_window) moves -= rightsize;
+                                }
+                                else if(i > start_window && i < end_window) moves += rightsize;
+                                else if(i < start_window && i > end_window) moves -= rightsize;
+                            }
+                            res += (max(0LL, moves) * count[i]);
+                        }
+                        n1--;
+                    }
+                }
+            }
+            final_answer += res;
+            current_start = current_end + 1;
+        }
+        return final_answer;
     }
 };
