@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pro-Dragon/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Pro-Dragon/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Pro-Dragon/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Pro-Dragon/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pro-Dragon/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Pro-Dragon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Pro-Dragon/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/Pro-Dragon/LeetCode/tree/master/2540-minimum-common-value) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Pro-Dragon/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Pro-Dragon/LeetCode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Pro-Dragon/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/Pro-Dragon/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Pro-Dragon/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Pro-Dragon/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Simulation
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Pro-Dragon/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pro-Dragon/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pro-Dragon/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Pro-Dragon/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
@@ -747,11 +751,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Pro-Dragon/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Pro-Dragon/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Pro-Dragon/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Pro-Dragon/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Pro-Dragon/LeetCode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Union Find
@@ -809,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Pro-Dragon/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Pro-Dragon/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Pro-Dragon/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Pro-Dragon/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Brainteaser
 |  |
