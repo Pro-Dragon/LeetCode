@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pro-Dragon/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pro-Dragon/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3698-split-array-with-minimum-difference](https://github.com/Pro-Dragon/LeetCode/tree/master/3698-split-array-with-minimum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Pro-Dragon/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Dynamic Programming
