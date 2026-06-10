@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Pro-Dragon/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pro-Dragon/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3698-split-array-with-minimum-difference](https://github.com/Pro-Dragon/LeetCode/tree/master/3698-split-array-with-minimum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Dynamic Programming
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Pro-Dragon/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Pro-Dragon/LeetCode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Union Find
 |  |
