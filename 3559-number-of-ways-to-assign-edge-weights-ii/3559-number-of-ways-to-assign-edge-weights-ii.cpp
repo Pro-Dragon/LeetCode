@@ -61,7 +61,6 @@ public:
                     flag = 0;
                 }
                 else {
-                if(i == 2) cout<<res<< " " << cur<<endl;
                     res = (res * cur) % mod;
                 }
                 prv1 = binarylift[val1][i];
