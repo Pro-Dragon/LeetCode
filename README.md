@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Pro-Dragon/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/Pro-Dragon/LeetCode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Pro-Dragon/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/Pro-Dragon/LeetCode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [4055-longest-balanced-substring-i](https://github.com/Pro-Dragon/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Sorting
 |  |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Pro-Dragon/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Pro-Dragon/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/Pro-Dragon/LeetCode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Math
 |  |
 | ------- |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Pro-Dragon/LeetCode/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/Pro-Dragon/LeetCode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [4055-longest-balanced-substring-i](https://github.com/Pro-Dragon/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Binary Search
 |  |
