@@ -8,15 +8,7 @@ public:
             if(!mp[nums[i]]) unique_count++;
             mp[nums[i]]++;
             if(mp[nums[i]] == m) freq_count++;
-            if(unique_count == k && freq_count == k) {
-                while(mp[nums[j]] > m) {
-                    mp[nums[j]]--;
-                    j++;
-                }
-                res += (j - start + 1);
-                //cout<<res<<endl;
-            }
-            else if(unique_count > k) {
+            if(unique_count > k) {
                 start = j;
                 while(start < i && unique_count > k) {
                     if(mp[nums[start]] == m) freq_count--;
@@ -27,14 +19,13 @@ public:
                     start++;
                 }
                 j = start;
-                if(unique_count == k && freq_count == k) {
-                    while(mp[nums[j]] > m) {
-                        mp[nums[j]]--;
-                        j++;
-                    }
-                    res += (j - start + 1);
-                    //cout<<res<<endl;
+            }
+            if(unique_count == k && freq_count == k) {
+                while(mp[nums[j]] > m) {
+                    mp[nums[j]]--;
+                    j++;
                 }
+                res += (j - start + 1);
             }
         }
         return res;
