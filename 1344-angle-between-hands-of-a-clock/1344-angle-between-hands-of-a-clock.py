@@ -1,7 +1,5 @@
 class Solution:
     def angleClock(self, hour: int, minutes: int) -> float:
-        if hour == 12 and minutes == 0 :
-            return 0 
         Gratio = 0.08333333333333333333333333333333 * minutes
         if hour == 12 :
             hour = 0
