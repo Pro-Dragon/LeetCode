@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3698-split-array-with-minimum-difference](https://github.com/Pro-Dragon/LeetCode/tree/master/3698-split-array-with-minimum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Pro-Dragon/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Pro-Dragon/LeetCode/tree/master/3678-design-task-manager) |
 | [3714-longest-balanced-substring-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/Pro-Dragon/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Pro-Dragon/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3583-count-special-triplets](https://github.com/Pro-Dragon/LeetCode/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Pro-Dragon/LeetCode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [4055-longest-balanced-substring-i](https://github.com/Pro-Dragon/LeetCode/tree/master/4055-longest-balanced-substring-i) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -752,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pro-Dragon/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pro-Dragon/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -796,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Pro-Dragon/LeetCode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union Find
 |  |
 | ------- |
@@ -894,4 +900,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Pro-Dragon/LeetCode/tree/master/0796-rotate-string) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
