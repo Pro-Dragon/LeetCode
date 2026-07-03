@@ -5,10 +5,7 @@ public:
         for(int i = 0; i < n; i++) {
             left = (i + 1) >> 1;
             right = (n - i) >> 1;
-            freq = left * right;
-            if(i % 2 == 0) left++;
-            if((n - i) % 2) right++;
-            freq += left * right;
+            freq = (left * right) + (left + !(i % 2)) * (right + (n - i) % 2);
             sum += arr[i] * freq;
         }
         return sum;
