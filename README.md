@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pro-Dragon/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1390-four-divisors](https://github.com/Pro-Dragon/LeetCode/tree/master/1390-four-divisors) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1470-shuffle-the-array](https://github.com/Pro-Dragon/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pro-Dragon/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pro-Dragon/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/Pro-Dragon/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pro-Dragon/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pro-Dragon/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Pro-Dragon/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pro-Dragon/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Pro-Dragon/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pro-Dragon/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Pro-Dragon/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Pro-Dragon/LeetCode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Pro-Dragon/LeetCode/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pro-Dragon/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Pro-Dragon/LeetCode/tree/master/1390-four-divisors) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Pro-Dragon/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1642-water-bottles](https://github.com/Pro-Dragon/LeetCode/tree/master/1642-water-bottles) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pro-Dragon/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pro-Dragon/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1094-car-pooling](https://github.com/Pro-Dragon/LeetCode/tree/master/1094-car-pooling) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Pro-Dragon/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pro-Dragon/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Pro-Dragon/LeetCode/tree/master/1732-find-the-highest-altitude) |
