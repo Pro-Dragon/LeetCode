@@ -16,7 +16,7 @@ public:
                         cur -= mp[j - (groupSize - 1)];
                     }
                     cur += mp[j];
-                    cout<<cur<<" "<<j<<endl;
+                    //cout<<cur<<" "<<j<<endl;
                     max_ele = j;
                 }
                 if(cur) return 0;
