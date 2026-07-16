@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-count-caesar-cipher-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Pro-Dragon/LeetCode/tree/master/3859-count-subarrays-with-k-distinct-integers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Pro-Dragon/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pro-Dragon/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Pro-Dragon/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Pro-Dragon/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Counting
 |  |
@@ -796,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pro-Dragon/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Pro-Dragon/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3893-generate-tag-for-video-caption](https://github.com/Pro-Dragon/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Divide and Conquer
 |  |
@@ -892,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Pro-Dragon/LeetCode/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pro-Dragon/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pro-Dragon/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
