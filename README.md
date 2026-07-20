@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1094-car-pooling](https://github.com/Pro-Dragon/LeetCode/tree/master/1094-car-pooling) |
 | [1095-two-city-scheduling](https://github.com/Pro-Dragon/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1260-shift-2d-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1293-three-consecutive-odds](https://github.com/Pro-Dragon/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1306-jump-game-iii) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Pro-Dragon/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Pro-Dragon/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1022-unique-paths-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1260-shift-2d-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pro-Dragon/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Pro-Dragon/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1094-car-pooling](https://github.com/Pro-Dragon/LeetCode/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pro-Dragon/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pro-Dragon/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Pro-Dragon/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
