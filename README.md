@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Pro-Dragon/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Pro-Dragon/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0047-permutations-ii) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pro-Dragon/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Pro-Dragon/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Pro-Dragon/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pro-Dragon/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pro-Dragon/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Pro-Dragon/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Pro-Dragon/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Pro-Dragon/LeetCode/tree/master/0118-pascals-triangle) |
