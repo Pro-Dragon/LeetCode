@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Pro-Dragon/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2487-optimal-partition-of-string](https://github.com/Pro-Dragon/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2833-furthest-point-from-origin](https://github.com/Pro-Dragon/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pro-Dragon/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Pro-Dragon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pro-Dragon/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2487-optimal-partition-of-string](https://github.com/Pro-Dragon/LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pro-Dragon/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Pro-Dragon/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Pro-Dragon/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Pro-Dragon/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pro-Dragon/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pro-Dragon/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Pro-Dragon/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
