@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
-        unordered_map<int, vector<int>> mp1, mp2;
+        vector<vector<int>> mp1(n), mp2(n);
         for(int i = 0; i < invocations.size(); i++) {
             mp1[invocations[i][0]].push_back(invocations[i][1]);
             mp2[invocations[i][1]].push_back(invocations[i][0]);
