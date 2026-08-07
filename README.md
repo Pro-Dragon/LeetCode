@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Pro-Dragon/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/Pro-Dragon/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Pro-Dragon/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Pro-Dragon/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pro-Dragon/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Pro-Dragon/LeetCode/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Pro-Dragon/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Pro-Dragon/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pro-Dragon/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Pro-Dragon/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Pro-Dragon/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pro-Dragon/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Pro-Dragon/LeetCode/tree/master/0239-sliding-window-maximum) |
