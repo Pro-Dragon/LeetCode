@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Pro-Dragon/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1094-car-pooling](https://github.com/Pro-Dragon/LeetCode/tree/master/1094-car-pooling) |
 | [1095-two-city-scheduling](https://github.com/Pro-Dragon/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1140-stone-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Pro-Dragon/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1293-three-consecutive-odds](https://github.com/Pro-Dragon/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Pro-Dragon/LeetCode/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Pro-Dragon/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pro-Dragon/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1140-stone-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1140-stone-game-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pro-Dragon/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pro-Dragon/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Pro-Dragon/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Pro-Dragon/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pro-Dragon/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pro-Dragon/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Pro-Dragon/LeetCode/tree/master/1390-four-divisors) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pro-Dragon/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pro-Dragon/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1094-car-pooling](https://github.com/Pro-Dragon/LeetCode/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1140-stone-game-ii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Pro-Dragon/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pro-Dragon/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1041,14 +1045,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Pro-Dragon/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pro-Dragon/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1140-stone-game-ii) |
 | [1686-stone-game-vi](https://github.com/Pro-Dragon/LeetCode/tree/master/1686-stone-game-vi) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1140-stone-game-ii) |
 | [1686-stone-game-vi](https://github.com/Pro-Dragon/LeetCode/tree/master/1686-stone-game-vi) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1140-stone-game-ii) |
 | [1686-stone-game-vi](https://github.com/Pro-Dragon/LeetCode/tree/master/1686-stone-game-vi) |
 ## Algorithm X
 |  |
