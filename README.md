@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Pro-Dragon/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1140-stone-game-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Pro-Dragon/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1510-stone-game-iv](https://github.com/Pro-Dragon/LeetCode/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pro-Dragon/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pro-Dragon/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Pro-Dragon/LeetCode/tree/master/1871-jump-game-vii) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pro-Dragon/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Pro-Dragon/LeetCode/tree/master/1390-four-divisors) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pro-Dragon/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1510-stone-game-iv](https://github.com/Pro-Dragon/LeetCode/tree/master/1510-stone-game-iv) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Pro-Dragon/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1642-water-bottles](https://github.com/Pro-Dragon/LeetCode/tree/master/1642-water-bottles) |
 | [1686-stone-game-vi](https://github.com/Pro-Dragon/LeetCode/tree/master/1686-stone-game-vi) |
@@ -1046,16 +1048,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Pro-Dragon/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pro-Dragon/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Pro-Dragon/LeetCode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Pro-Dragon/LeetCode/tree/master/1686-stone-game-vi) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Pro-Dragon/LeetCode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Pro-Dragon/LeetCode/tree/master/1686-stone-game-vi) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Pro-Dragon/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Pro-Dragon/LeetCode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Pro-Dragon/LeetCode/tree/master/1686-stone-game-vi) |
 ## Algorithm X
 |  |
@@ -1065,4 +1070,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Pro-Dragon/LeetCode/tree/master/0037-sudoku-solver) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Pro-Dragon/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Pro-Dragon/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
